@@ -35,4 +35,14 @@ Asegúrate de tener instalados los siguientes elementos en tu máquina:
 ## Funcionalidades
 Muestra una lista de usuarios obtenidos de la API de RandomUser.me.
 Al hacer clic en el botón "Detalles" de un usuario, se muestra la dirección del usuario en un modal.
- 
+
+Puedes filtrar la lista de usuarios por nacionalidad seleccionando una opción en el menú desplegable de la página. Las nacionalidades disponibles son:
+  - Estados Unidos 
+  - Canadá
+  - México 
+  - España 
+
+Selecciona una nacionalidad y la lista se actualizará automáticamente con los usuarios de esa nacionalidad. 
+
+Asimismo, la lista de usuarios se muestra en grupos de 15, 20 o 30  tarjetas por página según se elija. 
+
