@@ -16,19 +16,19 @@ Asegúrate de tener instalados los siguientes elementos en tu máquina:
 
 1. Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio:
 
-  git clone https://github.com/VickydeRebolledo/ejercicioUsuarios.git
+  `git clone https://github.com/VickydeRebolledo/ejercicioUsuarios.git`
 
 2. Navega al directorio del proyecto:
 
-  cd ejercicioUsuarios
+  `cd ejercicioUsuarios`
 
 3. Instala las dependencias del proyecto ejecutando el siguiente comando:
 
-  npm install
+  `npm install`
 
 4. Inicia el servidor de desarrollo con el siguiente comando:
   
-  npm start
+  `npm start`
 
 5. Abre tu navegador web y visita http://localhost:3000 para ver la aplicación en funcionamiento.
 
